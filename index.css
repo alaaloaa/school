@@ -684,6 +684,9 @@ a {
  .social-section .right .icons, .social-section .left .icons {
  	padding-left: 50px
  }
+ .social-section .left {
+ 	padding-left: 50px
+ }
  .about-section h1 {
  	margin-top: 20px
  }
